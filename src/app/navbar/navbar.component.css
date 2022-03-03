@@ -1,0 +1,36 @@
+.home a{
+    color: #80c49f;
+    border-radius: 20px;
+}
+.home a:hover{
+    background-color: #80c49f;
+    color: rgb(0, 49, 0);
+     
+}
+.gallery a{
+    color: #80c49f;
+    border-radius: 20px;
+}
+.gallery a:hover{
+    background-color: #80c49f;
+    color: rgb(0, 49, 0);
+     
+}
+.contact a{
+    color:#80c49f;
+    border-radius: 20px;
+}
+.contact a:hover{
+    background-color: #80c49f;
+    color: rgb(0, 49, 0);
+     
+}
+.drp a{
+    color: #80c49f;
+    border-radius: 20px;
+}
+.drp a:hover{
+    background-color: #80c49f;
+    color: rgb(0, 49, 0);
+     
+}

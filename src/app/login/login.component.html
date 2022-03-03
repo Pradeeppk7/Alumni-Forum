@@ -1,0 +1,34 @@
+<div class="container" style="height: 650px; font-family: 'Roboto Slab', serif;">
+    
+    <div class="row justify-content-center" style="padding-top: 10%;">
+        <div class="col-sm-5">
+            <div class="card shadow-lg border-0 rounded-lg mt-5">
+                
+                <div class="card-header" style="background-color:  rgb(202, 255, 206); border-radius: 10px;">
+                    <h4 style="text-align: center;">Login</h4>
+                    <div class="card-body" style="background-color:  white; border-radius: 10px;">
+                        <form >
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="inputEmail" type="email" name="uemail"
+                                    placeholder="name@example.com" ngModel/>
+                                <label for="inputEmail">Email address</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="inputPassword" type="password" placeholder="Password" name="userpass" ngModel/>
+                                <label for="inputPassword">Password</label>
+                            </div>
+                            
+                            <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
+                                <button type="submit" class="btn btn-success btn-block" name="upassword"  style="text-align: center;" >Login</button>
+                                <!-- routerLink="/profile"-->
+                            </div>
+                        </form>
+                    </div>
+                    <div class="card-footer text-center py-3">
+                        <div class="small" ><a routerLink="/register" style="color:  #1F2833;">Need an account? Register Here</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

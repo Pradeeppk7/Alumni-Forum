@@ -1,0 +1,108 @@
+<div class="container" style=" font-family: 'Roboto Slab', serif;">
+    
+    <div class="row justify-content-center" style="padding-top: 10%;">
+        <div class="col-sm-5">
+            <div class="card shadow-lg border-0 rounded-lg mt-5">
+                
+                <div class="card-header" style="background-color:  rgb(202, 255, 206); border-radius: 10px;">
+                    <h4 style="text-align: center;">Register</h4>
+                    <div class="card-body" style="background-color:  white; border-radius: 10px;">
+                        <form >
+                            
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="inputfname" type="text" name="fname"
+                                    placeholder="name@example.com" required ngModel/>
+                                <label for="inputfirstname">First Name</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="inputlname" type="text" name="fname"
+                                    placeholder="name@example.com" required ngModel/>
+                                <label for="inputfirstname">Last Name</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="inputphone" type="text" placeholder="Phone Number" name="userphone" ngModel   required pattern="^(0|[1-9][0-9]*)$" maxlength="10"/>
+                                <label for="inputphone">Phone Number</label>
+                              </div>
+                              <div class="row">
+                                <div class="col">
+                                  <div class="form-floating mb-3">
+                                    <input class="form-control" id="age" type="number" placeholder="age" name="userage" ngModel  required />
+                                    <label for="age">Age</label>
+                                  </div>
+                                
+                                </div>
+                                <div class="col">
+                                  <div class="form-check">
+                                    <input class="form-check-input" type="radio" name="gender" value="male" id="flexRadioDefault1" ngModel   required >
+                                    <label class="form-check-label" for="flexRadioDefault1"
+                                      style="background-color: whitesmoke; border-radius: 3px; width: 50%; text-align: center;">
+                                      Male
+                                    </label>
+                                    
+                                  </div>
+                                  <div class="form-check" style="margin-top: 10px;">
+                                    <input class="form-check-input" type="radio" name="gender"  value="female" id="flexRadioDefault2" ngModel   required  >
+                                    <label class="form-check-label" for="flexRadioDefault2"
+                                      style="background-color: whitesmoke; border-radius: 3px; width: 50%;  text-align: center;">
+                                      Female
+                                    </label>
+                                  </div>
+                                </div>
+                                </div>
+                               
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="inputEmail" type="email" name="fname"
+                                    placeholder="name@example.com" ngModel/>
+                                <label for="inputEmail">Email address</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="inputPassword" type="password" placeholder="Password" name="userpass" ngModel required/>
+                                <label for="inputPassword"> Create Password</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="inputdeg" type="text" name="degree"
+                                    placeholder="Degree" ngModel required/>
+                                <label for="inputEmail">Degree</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <input class="form-control" id="inputdeg" type="text" name="degree"
+                                    placeholder="Year of completion" ngModel required/>
+                                <label for="inputEmail">Year of completion</label>
+                            </div>
+                            <div class="form-floating mb-3">
+                                <select class="form-select" id="floatingSelect" aria-label="Floating label select example">
+                                  <option selected>Present Status</option>
+                                  <option value="1">salaried</option>
+                                  <option value="2">Enterpreneur</option>
+                                  <option value="3">House Maker</option>
+                                  <option value="3">Yet to be placed</option>
+                                </select>
+                                <label for="floatingSelect">Works with selects</label>
+                              </div>
+                              <div class="form-floating mb-3">
+                                <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+                                <label for="floatingTextarea">Address/Location</label>
+                              </div>
+                            <div class="form-check" >
+                                <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+                                <label class="form-check-label" for="flexCheckDefault">
+                                  Enable Notification
+                                </label>
+                              </div>
+                            
+                            <div class="d-flex align-items-center justify-content-between mt-4 mb-0">
+                                <button type="submit" class="btn btn-success btn-block" name="upassword"  style="text-align: center;" >Register</button>
+                                <!-- routerLink="/profile"-->
+                            </div>
+                        </form>
+                    </div>
+                    <div class="card-footer text-center py-3">
+                        <div class="small" ><a routerLink="/login" style="color:  #1F2833;"> Already registered ! Login now</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+  

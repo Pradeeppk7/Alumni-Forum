@@ -1,0 +1,9 @@
+.ho{
+    color:rgb(47, 92, 50);
+    border-radius: 10px;
+    padding: 0.5rem;
+}
+.ho:hover{
+    background-color:rgb(47, 92, 50);
+    color:rgb(202, 255, 206);
+}
