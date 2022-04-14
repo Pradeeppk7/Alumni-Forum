@@ -6,16 +6,15 @@
 
 
 ## Screen Shots
-![image](https://user-images.githubusercontent.com/88220620/163456276-e262c652-aaa1-45e5-ab34-0936ca6b0e19.png)
-![image](https://user-images.githubusercontent.com/88220620/163456337-2d891963-73e0-4faa-8efd-3d39ec1654a1.png)
-![image](https://user-images.githubusercontent.com/88220620/163456399-77a1a10e-fcb4-414b-bf1f-d5379a6bc3cd.png)
-![image](https://user-images.githubusercontent.com/88220620/163456423-418b6a46-2fd4-42cc-8e51-8e895ef7d808.png)
-![image](https://user-images.githubusercontent.com/88220620/163456443-432ac0e9-f08b-4b58-ac6f-24db2dc7d042.png)
-![image](https://user-images.githubusercontent.com/88220620/163456489-5914b5f3-b537-42eb-a425-87c9c194be34.png)
-![image](https://user-images.githubusercontent.com/88220620/163456592-6b8187f4-32b9-488e-820d-764edb97ceb6.png)
-![image](https://user-images.githubusercontent.com/88220620/163456727-b22fbe7a-6314-49ec-be93-8ed3ad947b22.png)
-![image](https://user-images.githubusercontent.com/88220620/163456674-d127e2a1-2609-41ed-a96d-06fd8eafce18.png)
-
+![image](https://user-images.githubusercontent.com/88220620/163457210-67d8eb3b-1495-4487-bab1-24b67f3e3102.png)
+![image](https://user-images.githubusercontent.com/88220620/163457285-54d29713-b98a-4593-ad33-91817c14d556.png)
+![image](https://user-images.githubusercontent.com/88220620/163457334-81a48ea5-b7ec-47d3-b71b-cdefab82872f.png)
+![image](https://user-images.githubusercontent.com/88220620/163457367-8c9625a6-1ec8-49c0-beec-368017799e41.png)
+![image](https://user-images.githubusercontent.com/88220620/163457432-03894720-f732-47fc-a7c6-6448d6e96032.png)
+![image](https://user-images.githubusercontent.com/88220620/163457474-69fb3f5b-8f3c-445b-9725-dd78f773a7c1.png)
+![image](https://user-images.githubusercontent.com/88220620/163457553-041bc1dd-1673-42df-86f4-10bfea01ed3d.png)
+![image](https://user-images.githubusercontent.com/88220620/163457661-733db766-1e09-424f-96ca-b50e2c1f5d5b.png)
+![image](https://user-images.githubusercontent.com/88220620/163457711-70ebb311-59f9-4ff3-b80c-40883b44cc44.png)
 
 
 
